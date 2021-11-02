@@ -20,4 +20,4 @@ description: Rules under image.
 
 ### <mark style="color:red;">Extra</mark> <mark style="color:orange;">50.000.000</mark> <mark style="color:red;">If you</mark> <mark style="color:green;">HOLD</mark> <mark style="color:red;">any</mark> <mark style="color:green;">TAMT</mark>
 
-### <mark style="color:red;">Date</mark> <mark style="color:green;">24.10.2021</mark> <mark style="color:red;">-</mark> <mark style="color:orange;">31.10.2021</mark>
+### <mark style="color:red;">Date</mark> <mark style="color:green;">24.10.2021</mark> <mark style="color:red;">-</mark> <mark style="color:orange;">31.10.2021</mark> <mark style="color:red;">Extended - 07.11.2021</mark>
